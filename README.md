@@ -1,2 +1,2 @@
 # boleh-ke-publik
-khusus mediashare 
+khusus mediashare yang selain pribadi
